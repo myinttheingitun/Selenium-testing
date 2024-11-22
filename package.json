@@ -1,0 +1,17 @@
+{  "type": "module",
+  "name": "selenium_testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chromedriver": "^122.0.0",
+    "geckodriver": "^4.3.3",
+    "selenium-webdriver": "^4.18.1"
+  }
+}
